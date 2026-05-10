@@ -34,7 +34,7 @@ A aplicação é puramente *Client-Side*, operando de forma leve e rápida em qu
 ## 🚀 Como Acessar e Utilizar
 Acesse o simulador diretamente pelo seu navegador (computador ou mobile), sem necessidade de instalação:
 
-👉 **[CLIQUE AQUI PARA ABRIR O SIMULADOR](Cole_Aqui_O_Link_Que_O_GitHub_Pages_Vai_Gerar)**
+👉 **https://diretoria-dpf.github.io/Farmacologia-basica-quiz/**
 
 **Passo a passo para uso:**
 1. Selecione os tópicos que deseja revisar no menu lateral.
