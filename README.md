@@ -52,7 +52,7 @@ Acesse o simulador diretamente pelo seu navegador (computador ou mobile), sem ne
 🤖 Tecnologias O desenvolvimento deste projeto contou com o apoio de Inteligência Artificial para a estruturação lógica, refinamento da arquitetura do motor estequiométrico e otimização da interface de utilizador. A IA foi utilizada como uma ferramenta de co-criação, permitindo que a lógica fosse implementada com maior robustez e precisão algorítmica.
 
 ## 🔗 Autoria e projeto
-Criado por **Daniel Pires Francisco** (Daniel P Francisco), Presidente da LAIFT e graduando em Farmácia na UNINASSAU Salvador.
+Criado por **Daniel Pires Francisco**, Presidente da LAIFT e graduando em Farmácia na UNINASSAU Salvador.
 - Portfólio, currículo e serviços: https://dpflabs.com
 - Plataforma LAIFT: https://laift.com.br
 - Lattes: http://lattes.cnpq.br/5041510175000740
